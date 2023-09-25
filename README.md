@@ -1,22 +1,22 @@
-# Frontend Mentor - Order summary card solution
+# Frontend Mentor - Solução de cartão de resumo de pedidos
 
-This is a solution to the [Order summary card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+Esta é uma solução para o [desafio do cartão de resumo do pedido no Frontend Mentor](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj). Os desafios do Frontend Mentor ajudam a melhorar nossas habilidades de codificação através da construção de projetos realistas.
 
-## Overview
+## Visão geral
 
-### The challenge:
+### O desafio:
 
-- Build out this order summary card component and get it looking as close to the original design as possible. Plus users should be able to see hover states for interactive elements.
+- Criamos este componente de cartão de resumo do pedido e fizemos com que parecesse o mais próximo possível do design original. Além disso, os usuários deveriam ser capazes de ver os status de foco dos elementos interativos.
 
-### Screenshot
+### Captura de tela
 
 ![image](https://user-images.githubusercontent.com/97769685/156590154-d90a4caf-6633-4fff-ad0d-18aa89b19694.png)
 
-### Built with
+### Construído com
 
-- Semantic HTML5 markup
-- CSS custom properties
+- HTML5
+- Propriedades personalizadas CSS
 
-### Continued development
+### Desenvolvimento contínuo
 
-- I intend to continue this and other projects for responsiveness
+- Pretendo dar continuidade a este e outros projetos responsivos
